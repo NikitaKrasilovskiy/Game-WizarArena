@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44993794, g: 0.49999464, b: 0.5755478, a: 1}
+  m_IndirectSpecularColor: {r: 0.4499311, g: 0.499987, b: 0.57555205, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1313,7 +1313,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2173577919667858479, guid: 3933117e1ef83df42aa75a9a183763d8, type: 3}
       propertyPath: m_Name
-      value: ZombieMan2
+      value: ZombieMen2
       objectReference: {fileID: 0}
     - target: {fileID: 2173577919667858479, guid: 3933117e1ef83df42aa75a9a183763d8, type: 3}
       propertyPath: m_IsActive
@@ -6194,7 +6194,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2173577919667858479, guid: 3933117e1ef83df42aa75a9a183763d8, type: 3}
       propertyPath: m_Name
-      value: ZombieMan
+      value: ZombieMen
       objectReference: {fileID: 0}
     - target: {fileID: 2925023104737893320, guid: 3933117e1ef83df42aa75a9a183763d8, type: 3}
       propertyPath: target
